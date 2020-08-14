@@ -108,3 +108,19 @@ ul {
 div.bottom {
     font-family: sans-serif;
 }
+
+a.web:link,
+a.web:visited {
+    color: white;
+    padding: 2px 2px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.web:hover,
+a.web:active {
+    background-color: #3c873a;
+}
