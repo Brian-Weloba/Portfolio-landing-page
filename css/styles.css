@@ -48,6 +48,7 @@ img.fit {
 body {
     padding: 0px;
     margin: 0px;
+    background-color: #303030;
 }
 
 a.head:link,
@@ -55,6 +56,8 @@ a.head:visited {
     background-color: #3c873a;
     color: white;
     padding: 2px 2px;
+    padding-left: 12px;
+    padding-right: 12px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -63,4 +66,19 @@ a.head:visited {
 a.head:hover,
 a.head:active {
     background-color: #303030;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: #ffffff;
+}
+
+.center {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: monospace;
+    font-size: 24px;
 }
