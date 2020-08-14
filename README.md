@@ -1,4 +1,4 @@
-# Portfolio-landing-page
+# Portfolio Landing Page
 ### **Author**: Brian Weloba
 ## Description:
 I am a budding devoloper currently enrolled at [Moringa School](https://moringaschool.com/) on the *Software Development Prep* course. Throughout my learning expeirnce I will add more information and projects to my portfolio.
