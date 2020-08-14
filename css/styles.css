@@ -39,3 +39,8 @@ div.bt {
     padding-left: 50px;
     padding-right: 50px;
 }
+
+img.fit {
+    max-width: 99%;
+    max-height: 99%;
+}
