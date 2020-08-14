@@ -25,3 +25,17 @@ div.headline {
     padding-right: 10pt;
     color: aliceblue;
 }
+
+div.bottom {
+    padding: 6px;
+    background-color: darkcyan;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+div.bt {
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
