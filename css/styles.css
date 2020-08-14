@@ -35,6 +35,7 @@ div.bottom {
 }
 
 div.bt {
+    align-items: center;
     float: left;
     padding-left: 50px;
     padding-right: 50px;
@@ -98,4 +99,12 @@ a.head:active {
 ul {
     list-style-type: none;
     text-align: centerS;
+}
+
+#ghlogo {
+    float: left;
+}
+
+div.bottom {
+    font-family: sans-serif;
 }
