@@ -17,5 +17,9 @@ I am a budding devoloper currently enrolled at [Moringa School](https://moringas
  - HTML
  - CSS
  - Git
+ 
+ ## Legal
+ Copyright &copy; 2020 Brian N Weloba
+ 
 
  
