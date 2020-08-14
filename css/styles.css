@@ -33,6 +33,7 @@ div.bottom {
     display: flex;
     justify-content: center;
     font-family: monospace;
+    font-size: 14px;
 }
 
 div.bt {
@@ -56,7 +57,7 @@ body {
 a.head:link,
 a.head:visited {
     background-color: #3c873a;
-    color: white;
+    color: #303030;
     padding: 2px 2px;
     padding-left: 12px;
     padding-right: 12px;
@@ -68,6 +69,25 @@ a.head:visited {
 a.head:hover,
 a.head:active {
     background-color: #303030;
+    color: blanchedalmond;
+}
+
+a.foot:link,
+a.foot:visited {
+    background-color: #3c873a;
+    color: #303030;
+    padding: 2px 2px;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.foot:hover,
+a.foot:active {
+    background-color: #303030;
+    color: blanchedalmond;
 }
 
 .container {
