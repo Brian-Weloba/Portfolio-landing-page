@@ -1,6 +1,6 @@
 # Portfolio Landing Page
 
-### **Author**: Brian Weloba
+## **Author**: Brian Weloba
 
 ## Description
 
