@@ -1,8 +1,10 @@
 div.textbox {
     padding: 6px;
-    background-color: #3c873a;
+    /*background-color: #3c873a;*/
     font-family: monospace;
     height: 72px;
+    background: rgb(60, 135, 58);
+    background: linear-gradient(180deg, rgba(60, 135, 58, 1) 0%, rgba(75, 170, 72, 1) 100%);
 }
 
 img.profile {
@@ -64,6 +66,7 @@ a.head:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    background: linear-gradient(180deg, rgba(60, 135, 58, 1) 0%, rgba(75, 170, 72, 1) 100%);
 }
 
 a.head:hover,
