@@ -8,6 +8,8 @@ I am a budding devoloper currently enrolled at [Moringa School](https://moringas
  Feel free to pop in and check out my Portfolio at any time.
 
  This site was built using [GitHub Pages](htps://pages.github.com/)
+ 
+ The mobile page was built using [Netlify] (https://app.netlify.com/). Visit the [mobile branch](https://github.com/Brian-Weloba/Portfolio-landing-page/tree/mobile) to view the code.
 
 ## Setup
 
