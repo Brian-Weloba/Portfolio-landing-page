@@ -15,7 +15,8 @@ I am a budding devoloper currently enrolled at [Moringa School](https://moringas
  2. Open the project directory.
  3. Run index.html on your browser.
 
-- Alternatively, view on [GitHub Pages](https://brian-weloba.github.io/Portfolio-landing-page/)
+- Alternatively, view on [GitHub Pages](https://brian-weloba.github.io/Portfolio-landing-page/) on browser.
+- Or, view the [mobile viesion](https://brian-weloba-portfolio-mobile.netlify.app/) for mobile.
 
 ## Technologies Used
 
