@@ -111,7 +111,7 @@
             display: flex;
             justify-content: center;
             font-family: monospace;
-            font-size: 14px;
+            font-size: 1.5em;
         }
         
         div.bt {
@@ -185,6 +185,7 @@
             left: 50%;
             transform: translate(-50%, -50%);
             font-family: monospace;
+            font-size: 2em;
         }
         
         .sections {
@@ -192,12 +193,12 @@
             text-align: center;
             font-family: monospace;
             color: #3c873a;
-            font-size: 16px;
+            font-size: 1em;
         }
         
         .sections p {
             color: aliceblue;
-            font-size: 14px;
+            font-size: 1.5em;
         }
         
         ul {
@@ -211,20 +212,21 @@
         
         a.web:link,
         a.web:visited {
-            background-color: #303030;
-            color: white;
+            background-color: #3c873a;
+            color: #303030;
             padding: 2px 2px;
             padding-left: 12px;
             padding-right: 12px;
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            font-size: 16px;
+            font-size: 2em;
         }
         
         a.web:hover,
         a.web:active {
-            background-color: #3c873a;
+            background-color: #303030;
+            color: antiquewhite;
         }
         /*.dropdown {
             position: relative;
